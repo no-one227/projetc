@@ -1,0 +1,74 @@
+.centerd-title{
+    text-align: center;
+}
+
+p{
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+}
+h1{
+    
+    background: linear-gradient( to right,rgb(255, 255, 255),rgb(255, 255, 255));
+    background-clip: text;
+    color: transparent;
+}
+h2{
+    background: linear-gradient(to right,rgb(255, 255, 255),rgb(255, 255, 255));
+    background-clip: text;
+    color: transparent;
+}
+
+
+
+body{
+    background-image:url(midea/1359457.jpeg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+justify-content: center;
+align-items:center ;
+
+}
+ol{
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.container {
+    display: flex;
+    align-items: center; /* Center vertically */
+}
+.container{
+    margin: 100px 0 0 200px;
+
+    width: 70%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    transition: all ease-in-out 0.5s;
+}
+.container img{
+    width: 10%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(red, green, blue, alpha)
+    
+}
+.container img:hover{
+    width: 25%;
+}
+ul{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+h3{
+    color: rgb(255, 255, 255);
+}
+a{
+    color:white
+}
+

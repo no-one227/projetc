@@ -1,0 +1,28 @@
+ol{
+    color:white ;
+}
+body{
+    background: url(midea/1359457.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+
+}
+li{
+    color: white;
+    font-size: 25px;
+}
+h1{
+    color: white;
+}
+
+
+p{
+    color: white;
+}
+h2{
+    color:white;
+}
